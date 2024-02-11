@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body style="background-color: black; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+
+  <div id="game_border">
+    <aside id="chat">
+      <div id="table">
+        <table>
+          <tr>
+          </tr>
+          <tr>
+            <td><button onclick="">????</button></td>
+            <td><button onclick="">??????</button></td>
+            <td><button onclick="">?????</button></td>
+            <td><button onclick="">?????</button></td>
+          </tr>
+          <tr>
+            <td><button onclick="travel()">Podróz</button></td>
+          </tr>
+        </table>
+      </div>
+    </aside>
+
+    <main id="screen">
+      <div id="g_screen">
+        <div id="text_content">
+          <div id="messages"></div>
+          <div id="input_container">
+            <input type="text" id="player_text_input" placeholder="Type your message...">
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <aside id="eq">
+      <div id="p_info" class="pf">
+        <div id="p_name"><b>the Scythe</b>></div>
+        <div id="lvl">1</div>
+      </div>
+      <div id="top_eq">
+        <div id="bars">
+          <div class="bar">
+            <div id="health_bar_fill" style="text-align: center;">100</div>
+          </div>
+
+          <div class="bar">
+            <div id="xp_bar_fill" style="text-align: center;">60</div>
+          </div>
+          <div class="bar">
+            <div id="hunger_bar_fill" style="text-align: center;"> 100</div>
+          </div>
+          <div class="money">
+            <div><img src="img/money.png" style="margin:2px; float:left;"></div>
+            <div id="money" style="text-align: center;">0</div>
+          </div>
+        </div>
+        <div class="eq_container">
+          <div></div>
+          <div class="slot">Text 2</div>
+          <div></div>
+          <div class="slot">Text 1</div>
+          <div class="slot">Text 2</div>
+          <div class="slot">Text 3</div>
+          <div class="slot">Text 1</div>
+          <div class="slot">Text 2</div>
+          <div class="slot">Text 3</div>
+          <div></div>
+          <div class="slot">Text 2</div>
+          <div></div>
+        </div>
+      </div>
+      <div id="bottom_eq">
+      </div>
+    </aside>
+  </div>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
