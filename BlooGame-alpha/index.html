@@ -15,9 +15,10 @@
     <aside id="chat">
       <div id="table">
         <table>
-          <td >
+          <td>
             <tr><p class="help">transmit to floor ....</p></tr>
             <tr><p class="help">go to region ....</p></tr>
+            <tr><p class="help">"go to region tower" for info about regions in this lvl</p></tr>
             <tr><p class="help">attack .... / attack ... x...</p></tr>
           </td>
         </table>
@@ -37,20 +38,17 @@
 
     <aside id="eq">
       <div id="p_info" class="pf">
-        <div id="p_name"><b>the Scythe</b>></div>
+        <div id="p_name"><b>the Scythe</b></div>
         <div id="lvl">1</div>
       </div>
       <div id="top_eq">
         <div id="bars">
           <div class="bar">
-            <div id="health_bar_fill" style="text-align: center;">???</div>
+            <div id="health_bar_fill" style="text-align: center;">'hp'</div>
           </div>
 
           <div class="bar">
-            <div id="xp_bar_fill" style="text-align: center;">???</div>
-          </div>
-          <div class="bar">
-            <div id="hunger_bar_fill" style="text-align: center;"> ???</div>
+            <div id="xp_bar_fill" style="text-align: center;">'lvl'</div>
           </div>
           <div class="money">
             <div><img src="img/money.png" style="margin:2px; float:left;"></div>
@@ -73,6 +71,10 @@
         </div>
       </div>
       <div id="bottom_eq">
+        <tr>
+          <td><button id="heal_button">Heal</button></td>
+        </tr>
+        
       </div>
     </aside>
   </div>
