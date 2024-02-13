@@ -1,5 +1,7 @@
 # BlooTower Alpha Version 0.1
 
+**Important Note:** This code represents the final state of development as of 09.02.2024. While it serves as the alpha version, please be aware that further enhancements and updates are in progress.
+
 Welcome to the final alpha version of BlooTower, a solo-developed game! In this release, you'll find the tutorial phase, providing insights into the unique gameplay mechanics and dynamics.
 
 ## Features in This Version:
@@ -12,6 +14,6 @@ Welcome to the final alpha version of BlooTower, a solo-developed game! In this 
 - Follow BlooTower's development journey on GitHub for the latest updates and community interactions.
 
 ## Future Development:
-If BlooTower has piqued your interest, explore its evolution in the beta version [here](https://github.com/ArkaiduszKapa/BlooTower---beta). Witness the latest developments and features as I continue shaping this game.
+If BlooTower has piqued your interest, explore its evolution in the beta version [here]([new_link](https://github.com/ArkaiduszKapa/BlooTower---beta)). Witness the latest developments and features as I continue shaping this game.
 
 Thank you for joining me on this solo development adventure! Let's build BlooTower together. 🏰🕹️✨
