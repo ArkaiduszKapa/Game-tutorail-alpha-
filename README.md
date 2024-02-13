@@ -14,6 +14,6 @@ Welcome to the final alpha version of BlooTower, a solo-developed game! In this 
 - Follow BlooTower's development journey on GitHub for the latest updates and community interactions.
 
 ## Future Development:
-If BlooTower has piqued your interest, explore its evolution in the beta version [here]([new_link](https://github.com/ArkaiduszKapa/BlooTower---beta)). Witness the latest developments and features as I continue shaping this game.
+If BlooTower has piqued your interest, explore its evolution in the beta version [here](https://github.com/ArkaiduszKapa/BlooTower---beta). Witness the latest developments and features as I continue shaping this game.
 
 Thank you for joining me on this solo development adventure! Let's build BlooTower together. 🏰🕹️✨
